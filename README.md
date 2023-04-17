@@ -22,5 +22,5 @@ Aplikasi todolist berbasis web adalah aplikasi untuk membuat catatan atau todo y
 # Halaman Workspace
 ![workspace](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-workspacet.png "Halaman Workspace")
 
-# Halaman Login
+# Halaman Detail Todo
 ![change todo](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-Change-Status.png "Halaman Detail Todo")
