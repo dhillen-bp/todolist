@@ -9,5 +9,18 @@ Aplikasi todolist berbasis web adalah aplikasi untuk membuat catatan atau todo y
 
 ## Installation
 
-1. Import database dengan nama "penerimaan_murid.sql" yang berisi data training.
-2. Untuk menjalankan aplikasi buka halaman home.
+1. Import database dengan nama "todolist_db.sql".
+2. Untuk menjalankan aplikasi perlu mendaftar akun atau login dengan username = user dan password = user.
+
+## Screenshoot
+# Halaman Login
+![terminal](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-Log-in.png "Halaman Login")
+
+# Halaman Beranda
+![beranda](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-Beranda.png "Halaman Beranda")
+
+# Halaman Workspace
+![workspace](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-workspacet.png "Halaman Workspace")
+
+# Halaman Login
+![change todo](https://github.com/dhillenbp179/todolist/blob/main/assets/img/ss/Dabta-Change-Status.png "Halaman Detail Todo")
